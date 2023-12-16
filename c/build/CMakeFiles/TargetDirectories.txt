@@ -1,0 +1,5 @@
+/home/marko/Desktop/logic2-automation/c/build/CMakeFiles/proto-directory.dir
+/home/marko/Desktop/logic2-automation/c/build/CMakeFiles/logic-pbuf.dir
+/home/marko/Desktop/logic2-automation/c/build/CMakeFiles/libsaleae.dir
+/home/marko/Desktop/logic2-automation/c/build/CMakeFiles/edit_cache.dir
+/home/marko/Desktop/logic2-automation/c/build/CMakeFiles/rebuild_cache.dir

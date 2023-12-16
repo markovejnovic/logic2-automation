@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/marko/Desktop/logic2-automation/c/build",
+  "command": "/usr/lib64/ccache/cc  -I/home/marko/Desktop/logic2-automation/c/include -I/home/marko/Desktop/logic2-automation/c/build/codegen -I/home/marko/Desktop/logic2-automation/c/DEPENDS -I/home/marko/Desktop/logic2-automation/c/logic-pbuf  -o CMakeFiles/libsaleae.dir/src/saleae/automation/manager.c.o -c /home/marko/Desktop/logic2-automation/c/src/saleae/automation/manager.c",
+  "file": "/home/marko/Desktop/logic2-automation/c/src/saleae/automation/manager.c",
+  "output": "CMakeFiles/libsaleae.dir/src/saleae/automation/manager.c.o"
+}
+]

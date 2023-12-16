@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibsaleae.a CMakeFiles/libsaleae.dir/src/saleae/automation/manager.c.o
+/usr/bin/ranlib liblibsaleae.a
